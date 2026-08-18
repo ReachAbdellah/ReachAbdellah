@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/EDUCATION-MCA-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FOCUS-SDET%20%7C%20QA%20AUTOMATION-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BASED%20IN-CHENNAI%2C%20INDIA-4C1D95?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BASED%20IN-Bangalore%2C%20INDIA-4C1D95?style=for-the-badge"/>
 
 <br/><br/>
 
@@ -170,11 +170,12 @@ Professional Growth
 
 ## ■ Featured Projects
 
-### ■ Project 01 — Healthcare & Wellness Application
+### ■ Project 01 — E-Commerce Application
 
-Designed and executed end-to-end automated regression testing for a healthcare and wellness web application using **Playwright and JavaScript**.
+Designed and executed end-to-end automated regression testing for an **e-commerce web application** using **Playwright and JavaScript**.
 
-Implemented BDD scenarios and supported API, database, and mobile testing activities.
+Implemented BDD scenarios and supported **API, database, and mobile testing** activities.
+
 
 **Tech Stack:**
 
